@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pharmacy-Management-System.iml" filepath="$PROJECT_DIR$/.idea/Pharmacy-Management-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/discovery-server/discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drug-management/drug-management.iml" filepath="$PROJECT_DIR$/drug-management/drug-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-management/order-management.iml" filepath="$PROJECT_DIR$/order-management/order-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sales-management/sales-management.iml" filepath="$PROJECT_DIR$/sales-management/sales-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supplier-management/supplier-management.iml" filepath="$PROJECT_DIR$/supplier-management/supplier-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-management/user-management.iml" filepath="$PROJECT_DIR$/user-management/user-management.iml" />
+    </modules>
+  </component>
+</project>
