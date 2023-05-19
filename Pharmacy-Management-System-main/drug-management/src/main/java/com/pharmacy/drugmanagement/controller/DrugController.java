@@ -36,7 +36,7 @@ public class DrugController {
                     .body("No drug created");
         }
     }
-
+//wsp sum
     @PutMapping("/drug/{drugId}")
     public ResponseEntity updateDrug(@RequestBody Drug drug, @PathVariable("drugId") String id) {
         try {
